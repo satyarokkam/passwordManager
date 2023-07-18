@@ -1,0 +1,70 @@
+li {
+  list-style: none;
+  background-color: transparent;
+  border: 2px solid #7683cb;
+  border-radius: 5px;
+  display: flex;
+  min-width: 40vh;
+  min-height: 15vh;
+  margin: 10px;
+  justify-content: space-around;
+  align-items: center;
+  color: #ffffff;
+  padding: 10px;
+}
+.initial {
+  height: 6vh;
+  min-width: 4vw;
+  padding-left: 20px;
+  border-radius: 30px;
+  padding-top: 15px;
+  padding-right: 20px;
+  text-align: center;
+}
+#one {
+  background-color: #7683cb;
+  color: #ffffff;
+}
+
+.delete-logo {
+  height: 40px;
+  width: 35px;
+  margin: 3px;
+}
+#two {
+  background-color: #f59e0b;
+}
+#three {
+  background-color: #10b981;
+}
+#four {
+  background-color: #14b8a6;
+}
+#five {
+  background-color: #b91c1c;
+}
+#six {
+  background-color: #f97316;
+}
+
+.pwd-details {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  color: #fff;
+  font-weight: 400;
+  font-size: 25px;
+  padding: 5px;
+  width: 15vw;
+}
+p {
+  margin: 3px;
+}
+.stars-logo {
+  width: 12vw;
+  height: 4vh;
+}
+.delete-btn {
+  background-color: transparent;
+  border-style: none;
+}
